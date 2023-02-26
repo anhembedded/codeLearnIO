@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/MinGW/include",
+                "C:/MinGW/lib"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "intelliSenseMode": "windows-gcc-x64",
+            "configurationProvider": "ms-vscode.makefile-tools",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:\\MinGW\\bin\\g++.exe"
+        }
+    ],
+    "version": 4
+}
